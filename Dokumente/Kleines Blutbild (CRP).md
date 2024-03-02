@@ -15,20 +15,22 @@ befund:
   werte:
     ery: 5,2
     ery_unit: Mio/µl
-    leu: 6.000
+    leu: 6
     leu_unit: µl
     thr: 25000
     thr_unit: µl
     hb: 16 (10,3)
     hb_unit: g/dl (mmol/l)
     hk: 48
-    hk_unit: %
+    hk_unit: "%"
     mch: 31
     mch_unit: pg
     mcv: 89
     mcv_unit: fl
     mchc: 32
     mchc_unit: g/dl
+patient:
+  - "[[Herr Paul Patient|Herr Paul Patient]]"
 ---
 
 ## `=this.typ` Befund (`=this.file.name`)
@@ -49,11 +51,12 @@ Es wurden keine Auffälligkeiten festgestellt.  Die Werte sind alle, in dem Alte
 
 ## Meta
 
-| Prameter        | Wert                                                                      | 
-| --------------- | ------------------------------------------------------------------------- |
-| Typ             | `INPUT[text(class('full-width')):typ]`                                    |
-| Art             | `INPUT[text(class('full-width')):art]`                                    |
-| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                          |
-| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]` |
-| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                         |
-| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`    |
+| Prameter        | Wert                                                                          |
+| --------------- | ----------------------------------------------------------------------------- |
+| Typ             | `INPUT[text(class('full-width')):typ]`                                        |
+| Art             | `INPUT[text(class('full-width')):art]`                                        |
+| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                              |
+| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`     |
+| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                             |
+| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`        |
+| Patient         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Patienten")):patient]` | 
