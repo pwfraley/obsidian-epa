@@ -39,6 +39,5 @@
   "00-Dashboard.md": "IbDashboard",
   "Daten/Kontakte/Ärzte": "FasUserDoctor",
   "Daten/Kontakte/Praxen": "RaHospitalCross",
-  "Tagebuch": "LiBookUser",
-  "Dokumente/Kleines Blutbild (CRP).md": "FasDroplet"
+  "Tagebuch": "LiBookUser"
 }

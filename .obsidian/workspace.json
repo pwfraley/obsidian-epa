@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Dokumente/Kleines Blutbild (CRP).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dokumente/Kleines Blutbild (CRP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dokumente/Kleines Blutbild (CRP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dokumente/Kleines Blutbild (CRP).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Dokumente/Kleines Blutbild (CRP).md"
               }
             }
           }
@@ -180,9 +180,15 @@
   },
   "active": "6f9c225e93983f4d",
   "lastOpenFiles": [
+    "Daten/Fachrichtungen/ALLGEMEIN.md",
+    "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md",
+    "Daten/Fachrichtungen/AUGENHEILKUNDE.md",
+    "Daten/Fachrichtungen/LABOR.md",
+    "Daten/Fachrichtungen/ORTHOPÄDIE.md",
+    "Daten/Fachrichtungen/RADIOLOGIE.md",
     "00-Dashboard.md",
-    "README.md",
     "Dokumente/Kleines Blutbild (CRP).md",
+    "README.md",
     "Vorlagen/Dokument.md",
     "Daten/Kontakte/Praxen/Praxis Dr. Andrea Tilse und Dr. Björn Tilse.md",
     "Daten/Kontakte/Ärzte/Herr Dr. Björn Tilse.md",
@@ -191,12 +197,6 @@
     "Daten/Kontakte/Ärzte",
     "Daten/Kontakte/Praxen",
     "Daten/Kontakte",
-    "Daten/Fachrichtungen/LABOR.md",
-    "Daten/Fachrichtungen/ALLGEMEIN.md",
-    "Daten/Fachrichtungen/AUGENHEILKUNDE.md",
-    "Daten/Fachrichtungen/RADIOLOGIE.md",
-    "Daten/Fachrichtungen/ORTHOPÄDIE.md",
-    "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md",
     "Daten/Fachrichtungen",
     "Daten",
     "Dokumente",
