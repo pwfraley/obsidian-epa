@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbDashboard",
       "TiCalendar",
       "BoBxCalendar",
       "FiDatabase",
-      "FasUserInjured",
-      "RiBookletLine"
+      "FasUserInjured"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Daten/Kontakte/Patienten": "FasUserInjured",
   "Vorlagen/Daten": "FiDatabase",
   "Termine": "BoBxCalendar",
-  "Vorlagen/Termine": "TiCalendar"
+  "Vorlagen/Termine": "TiCalendar",
+  "00-Dashboard.md": "IbDashboard"
 }
