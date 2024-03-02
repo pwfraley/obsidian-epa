@@ -17,6 +17,18 @@
     {
       "folder": "",
       "template": ""
+    },
+    {
+      "folder": "Daten/Kontakte/Patienten",
+      "template": "Vorlagen/Daten/Patient.md"
+    },
+    {
+      "folder": "Daten/Kontakte/Ärzte",
+      "template": "Vorlagen/Daten/Arzt.md"
+    },
+    {
+      "folder": "Daten/Kontakte/Praxen",
+      "template": "Vorlagen/Daten/Praxis.md"
     }
   ],
   "syntax_highlighting": true,
