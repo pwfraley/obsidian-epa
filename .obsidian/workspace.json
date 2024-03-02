@@ -174,14 +174,16 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6f9c225e93983f4d",
   "lastOpenFiles": [
-    "Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
     "00-Dashboard.md",
+    "Vorlagen/Dokumente",
+    "Dokumente/Kleines Blutbild (CRP).md",
     "README.md",
     "Vorlagen/Dokument.md",
     "Daten/Fachrichtungen/ALLGEMEIN.md",
