@@ -178,8 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67557d6ae21a65fa",
+  "active": "416a4085b31f0270",
   "lastOpenFiles": [
+    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
+    "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
+    "00-Dashboard.md",
     "Vorlagen/Termine",
     "Dokumente/Kleines Blutbild (CRP).md",
     "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
@@ -188,9 +191,6 @@
     "Vorlagen/Daten/Praxis.md",
     "Daten/Kontakte/Praxen/Praxis Dr. Andrea Arzt und Dr. Alexander Arzt.md",
     "Daten/Kontakte/Ärzte/Herr Dr. Alexander Arzt.md",
-    "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
-    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
-    "00-Dashboard.md",
     "Termine",
     "Daten/Fachrichtungen/ALLGEMEIN.md",
     "Daten/Fachrichtungen/RADIOLOGIE.md",
@@ -208,7 +208,6 @@
     "Daten/Kontakte/Ärzte",
     "Daten/Kontakte/Praxen",
     "Daten/Kontakte",
-    "Daten/Fachrichtungen",
-    "Daten"
+    "Daten/Fachrichtungen"
   ]
 }
