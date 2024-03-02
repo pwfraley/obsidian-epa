@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Dashboard.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Dashboard.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Dashboard.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00-Dashboard.md"
+                "file": "README.md"
               }
             }
           }
@@ -180,9 +180,10 @@
   },
   "active": "6f9c225e93983f4d",
   "lastOpenFiles": [
+    "00-Dashboard.md",
+    "README.md",
     "Dokumente/Kleines Blutbild (CRP).md",
     "Vorlagen/Dokument.md",
-    "00-Dashboard.md",
     "Daten/Kontakte/Praxen/Praxis Dr. Andrea Tilse und Dr. Björn Tilse.md",
     "Daten/Kontakte/Ärzte/Herr Dr. Björn Tilse.md",
     "Daten/Kontakte/Ärzte/Frau Dr. Andrea Tilse.md",
