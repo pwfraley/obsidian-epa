@@ -6,10 +6,10 @@ typ: Labor
 art: Diagnostik
 einstelldatum: 2024-02-26
 einsteller:
-  - "[[Daten/Kontakte/Ärzte/Frau Dr. Andrea Tilse.md|Frau Dr. Andrea Tilse]]"
+  - "[[Frau Dr. Andrea Arzt|Frau Dr. Andrea Arzt]]"
 erstelldatum: 2024-02-14
 autoren:
-  - "[[Daten/Kontakte/Ärzte/Herr Dr. Björn Tilse.md|Herr Dr. Björn Tilse]]"
+  - "[[Herr Dr. Alexander Arzt|Herr Dr. Alexander Arzt]]"
 fachrichtung: "[[LABOR]]"
 befund:
   werte:
@@ -51,12 +51,13 @@ Es wurden keine Auffälligkeiten festgestellt.  Die Werte sind alle, in dem Alte
 
 ## Meta
 
-| Prameter        | Wert                                                                          |
-| --------------- | ----------------------------------------------------------------------------- |
-| Typ             | `INPUT[text(class('full-width')):typ]`                                        |
-| Art             | `INPUT[text(class('full-width')):art]`                                        |
-| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                              |
-| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`     |
-| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                             |
-| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`        |
-| Patient         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Patienten")):patient]` | 
+| Prameter        | Wert                                                                           |
+| --------------- | ------------------------------------------------------------------------------ |
+| Fachrichtung    | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtung]` | 
+| Typ             | `INPUT[text(class('full-width')):typ]`                                         |
+| Art             | `INPUT[text(class('full-width')):art]`                                         |
+| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                               |
+| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`      |
+| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                              |
+| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`         |
+| Patient         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Patienten")):patient]`  |

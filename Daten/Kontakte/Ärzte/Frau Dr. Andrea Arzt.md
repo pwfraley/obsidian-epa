@@ -1,0 +1,30 @@
+---
+anrede: Frau
+titel: Dr.
+vorname: Andrea
+nachname: Arzt
+beruf: Fachärztin für Allgemeinmedizin
+praxen:
+  - "[[Praxis Dr. Andrea Arzt und Dr. Alexander Arzt|Praxis Dr. Andrea Arzt und Dr. Alexander Arzt]]"
+anschrift:
+  straße: Ärztestr. 12
+  plz: 11111
+  ort: Stadt
+telefon:
+  - +49 555 555
+fax:
+  - +49 555 554
+cssclasses:
+  - wide-table
+  - full-width
+---
+
+|           |                                                                           |
+| --------- | ------------------------------------------------------------------------- |
+| Name:     | `=this.anrede` `=this.titel` `=this.vorname` `=this.nachname`             |
+| Praxis    | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Praxen")):praxen]` | 
+| Anschrift | `=this.anschrift.straße`, `=this.anschrift.plz` `=this.anschrift.ort`     |
+| Telefon   | `=this.telefon`                                                           |
+| Fax       | `=this.fax`                                                               |
+
+## Notizen

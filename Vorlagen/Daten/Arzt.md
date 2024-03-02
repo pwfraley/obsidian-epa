@@ -1,19 +1,16 @@
 ---
-anrede: Frau
-titel: Dr.
-vorname: Andrea
-nachname: Tilse
-beruf: Fachärztin für Allgemeinmedizin
-praxen:
-  - "[[Daten/Kontakte/Praxen/Praxis Dr. Andrea Tilse und Dr. Björn Tilse.md|Praxis Dr. Andrea Tilse und Dr. Björn Tilse]]"
+anrede: 
+titel: 
+vorname: 
+nachname: 
+beruf: 
+praxen: []
 anschrift:
-  straße: Königstr. 12
-  plz: 23552
-  ort: Lübeck
-telefon:
-  - +49 451 71042
-fax:
-  - +49 451 71070
+  straße: 
+  plz: 
+  ort: 
+telefon: []
+fax: []
 cssclasses:
   - wide-table
   - full-width

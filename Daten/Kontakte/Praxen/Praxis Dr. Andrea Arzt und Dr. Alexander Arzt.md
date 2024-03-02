@@ -1,13 +1,13 @@
 ---
-name: Praxis Dr. Andrea Tilse und Dr. Björn Tilse
+name: Praxis Dr. Andrea Arzt und Dr. Alexander Arzt
 anschrift:
-  straße: Königstr. 12
-  plz: 23552
-  ort: Lübeck
-telefon: 
-  - "+49 451 71042"
+  straße: Ärztestr. 12
+  plz: 11111
+  ort: Stadt
+telefon:
+  - +49 555 555
 fax:
-  - "+49 451 71070"
+  - +49 555 554
 cssclasses:
   - wide-table
   - full-width

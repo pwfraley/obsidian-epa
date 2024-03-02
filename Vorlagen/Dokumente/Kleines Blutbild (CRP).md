@@ -8,7 +8,8 @@ einstelldatum: <% tp.file.creation_date() %>
 einsteller: []
 erstelldatum: 
 autoren: []
-fachrichtung: "[[LABOR]]"
+fachrichtung:
+  - "[[Daten/Fachrichtungen/LABOR.md|LABOR]]"
 befund:
   werte:
     ery: 
@@ -48,11 +49,12 @@ Es wurden keine Auffälligkeiten festgestellt.  Die Werte sind alle, in dem Alte
 
 ## Meta
 
-| Prameter        | Wert                                                                      | 
-| --------------- | ------------------------------------------------------------------------- |
-| Typ             | `INPUT[text(class('full-width')):typ]`                                    |
-| Art             | `INPUT[text(class('full-width')):art]`                                    |
-| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                          |
-| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]` |
-| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                         |
-| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`    |
+| Prameter        | Wert                                                                           |
+| --------------- | ------------------------------------------------------------------------------ |
+| Fachrichtung    | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtung]` | 
+| Typ             | `INPUT[text(class('full-width')):typ]`                                         |
+| Art             | `INPUT[text(class('full-width')):art]`                                         |
+| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                               |
+| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`      |
+| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                              |
+| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`         |

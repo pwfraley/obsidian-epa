@@ -1,5 +1,5 @@
 ---
-kuerzel: "ALG"
+kuerzel: 
 icon: ":FasUserDoctor:"
 ---
 

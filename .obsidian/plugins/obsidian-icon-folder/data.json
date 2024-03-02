@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiDatabase",
       "FasUserInjured",
       "RiBookletLine",
       "FasDroplet",
-      "FasBriefcaseMedical",
-      "LiBookUser"
+      "FasBriefcaseMedical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "Tagebuch": "LiBookUser",
   "Vorlagen/Dokumente": "RiBookletLine",
   "Vorlagen/Dokumente/Kleines Blutbild (CRP).md": "FasDroplet",
-  "Daten/Kontakte/Patienten": "FasUserInjured"
+  "Daten/Kontakte/Patienten": "FasUserInjured",
+  "Vorlagen/Daten": "FiDatabase"
 }

@@ -5,10 +5,7 @@ cssClass: "wide-table"
 
 ```dataview
 TABLE without id
-  anrede AS "Anrede",
-  titel AS "Titel",
-  vorname AS "Vorname",
-  nachname AS "Nachname",
+  file.link AS "Name",
   geburtsdatum AS "Geburtsdatum"
 FROM "Daten/Kontakte/Patienten"
 LIMIT 1
