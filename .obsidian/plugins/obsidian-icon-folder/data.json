@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasDroplet",
+      "FasBriefcaseMedical",
+      "LiBookUser",
+      "RiBookletFill",
+      "RaHospitalCross"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Vorlagen": "SiDocsdotrs",
+  "Dokumente": "RiBookletFill",
+  "Daten": "FasDatabase",
+  "Daten/Fachrichtungen/LABOR.md": "LiMicroscope",
+  "Daten/Fachrichtungen/ORTHOPÄDIE.md": "FasBone",
+  "Daten/Fachrichtungen/RADIOLOGIE.md": "FasSatelliteDish",
+  "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md": "SiEightsleep",
+  "Daten/Fachrichtungen/AUGENHEILKUNDE.md": "FiEye",
+  "Daten/Fachrichtungen/ALLGEMEIN.md": "FasBriefcaseMedical",
+  "00-Dashboard.md": "IbDashboard",
+  "Daten/Kontakte/Ärzte": "FasUserDoctor",
+  "Daten/Kontakte/Praxen": "RaHospitalCross",
+  "Tagebuch": "LiBookUser",
+  "Dokumente/Kleines Blutbild (CRP).md": "FasDroplet"
+}

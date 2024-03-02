@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c007a9511d040913",
+    "type": "split",
+    "children": [
+      {
+        "id": "72365071b8d3a3be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9c225e93983f4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Dashboard.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a0abb943fe9f23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87403a20b69518b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67557d6ae21a65fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f962985d7bf2da92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b34473877ad2a4ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.51103591918945
+  },
+  "right": {
+    "id": "6b063b19d037d21b",
+    "type": "split",
+    "children": [
+      {
+        "id": "509191449fc7db62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d5ff0adb0e8fad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b15b5e050e78bed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "933fd43ead82f035",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20f1b9dfc517c750",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "c0bfc11829f529fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1a6cea17e9c9c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "964478cee4cc25d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00-Dashboard.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6f9c225e93983f4d",
+  "lastOpenFiles": [
+    "Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Dokument.md",
+    "00-Dashboard.md",
+    "Daten/Kontakte/Praxen/Praxis Dr. Andrea Tilse und Dr. Björn Tilse.md",
+    "Daten/Kontakte/Ärzte/Herr Dr. Björn Tilse.md",
+    "Daten/Kontakte/Ärzte/Frau Dr. Andrea Tilse.md",
+    "Tagebuch",
+    "Daten/Kontakte/Ärzte",
+    "Daten/Kontakte/Praxen",
+    "Daten/Kontakte",
+    "Daten/Fachrichtungen/LABOR.md",
+    "Daten/Fachrichtungen/ALLGEMEIN.md",
+    "Daten/Fachrichtungen/AUGENHEILKUNDE.md",
+    "Daten/Fachrichtungen/RADIOLOGIE.md",
+    "Daten/Fachrichtungen/ORTHOPÄDIE.md",
+    "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md",
+    "Daten/Fachrichtungen",
+    "Daten",
+    "Dokumente",
+    "Vorlagen"
+  ]
+}

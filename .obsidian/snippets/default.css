@@ -1,0 +1,10 @@
+
+.wide-table table {
+  min-width: 100%;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+  min-width: 100%;
+}
