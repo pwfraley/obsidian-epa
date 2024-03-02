@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72365071b8d3a3be",
+        "id": "07c2b5bc06f9b24a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9c225e93983f4d",
+            "id": "416a4085b31f0270",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,25 +178,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f9c225e93983f4d",
+  "active": "416a4085b31f0270",
   "lastOpenFiles": [
+    "Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Daten/Fachrichtung.md",
+    "Vorlagen/Daten/Arzt.md",
+    "Vorlagen/Daten/Praxis.md",
     "Daten/Kontakte/Praxen/Praxis Dr. Andrea Arzt und Dr. Alexander Arzt.md",
     "Daten/Kontakte/Ärzte/Herr Dr. Alexander Arzt.md",
     "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
+    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
     "00-Dashboard.md",
-    "Dokumente/Kleines Blutbild (CRP).md",
-    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
+    "Termine",
     "Daten/Fachrichtungen/ALLGEMEIN.md",
     "Daten/Fachrichtungen/RADIOLOGIE.md",
     "Daten/Fachrichtungen/ORTHOPÄDIE.md",
     "Daten/Fachrichtungen/LABOR.md",
     "Daten/Fachrichtungen/AUGENHEILKUNDE.md",
     "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md",
-    "Vorlagen/Daten/Fachrichtung.md",
-    "Vorlagen/Daten/Praxis.md",
-    "Vorlagen/Daten/Arzt.md",
     "Vorlagen/Daten",
-    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
     "Tagebuch/1970-01-16.md",
     "Daten/Kontakte/Patienten",
     "Vorlagen/Dokumente",
@@ -207,7 +208,6 @@
     "Daten/Kontakte/Praxen",
     "Daten/Kontakte",
     "Daten/Fachrichtungen",
-    "Daten",
-    "Dokumente"
+    "Daten"
   ]
 }

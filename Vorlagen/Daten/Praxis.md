@@ -1,5 +1,6 @@
 ---
 name: 
+fachrichtungen: []
 anschrift:
   straße: 
   plz: 
@@ -13,11 +14,12 @@ cssclasses:
 
 ## `=this.name`
 
-| Infos     | #                                                                     | 
-| --------- | --------------------------------------------------------------------- |
-| Anschrift | `=this.anschrift.straße`, `=this.anschrift.plz` `=this.anschrift.ort` |
-| Telefon   | `=this.telefon`                                                       |
-| Fax       | `=this.fax`                                                           |
+| Infos          | #                                                                                |
+| -------------- | -------------------------------------------------------------------------------- |
+| Fachrichtungen | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtungen]` |
+| Anschrift      | `=this.anschrift.straße`, `=this.anschrift.plz` `=this.anschrift.ort`            |
+| Telefon        | `=this.telefon`                                                                  |
+| Fax            | `=this.fax`                                                                      |
 
 ```dataview
 TABLE WITHOUT id

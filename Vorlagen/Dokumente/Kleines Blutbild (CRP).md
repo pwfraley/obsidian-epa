@@ -8,7 +8,7 @@ einstelldatum: <% tp.file.creation_date() %>
 einsteller: []
 erstelldatum: 
 autoren: []
-fachrichtung:
+fachrichtungen:
   - "[[Daten/Fachrichtungen/LABOR.md|LABOR]]"
 befund:
   werte:
@@ -49,12 +49,12 @@ Es wurden keine Auffälligkeiten festgestellt.  Die Werte sind alle, in dem Alte
 
 ## Meta
 
-| Prameter        | Wert                                                                           |
-| --------------- | ------------------------------------------------------------------------------ |
-| Fachrichtung    | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtung]` | 
-| Typ             | `INPUT[text(class('full-width')):typ]`                                         |
-| Art             | `INPUT[text(class('full-width')):art]`                                         |
-| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                               |
-| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`      |
-| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                              |
-| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`         |
+| Prameter        | Wert                                                                             |
+| --------------- | -------------------------------------------------------------------------------- |
+| Fachrichtungen  | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtungen]` | 
+| Typ             | `INPUT[text(class('full-width')):typ]`                                           |
+| Art             | `INPUT[text(class('full-width')):art]`                                           |
+| Erstellt am     | `INPUT[datePicker:erstelldatum]`                                                 |
+| Autoren         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Ärzte")):autoren]`        |
+| Eingestellt am  | `INPUT[datePicker:einstelldatum]`                                                |
+| Eingestellt von | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte")):einsteller]`           |

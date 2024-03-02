@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxCalendar",
       "FiDatabase",
       "FasUserInjured",
       "RiBookletLine",
-      "FasDroplet",
-      "FasBriefcaseMedical"
+      "FasDroplet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Vorlagen/Dokumente": "RiBookletLine",
   "Vorlagen/Dokumente/Kleines Blutbild (CRP).md": "FasDroplet",
   "Daten/Kontakte/Patienten": "FasUserInjured",
-  "Vorlagen/Daten": "FiDatabase"
+  "Vorlagen/Daten": "FiDatabase",
+  "Termine": "BoBxCalendar"
 }

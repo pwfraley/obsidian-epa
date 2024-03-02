@@ -4,6 +4,8 @@ titel: Dr.
 vorname: Andrea
 nachname: Arzt
 beruf: Fachärztin für Allgemeinmedizin
+fachrichtungen:
+  - "[[Daten/Fachrichtungen/ALLGEMEIN.md|ALLGEMEIN]]"
 praxen:
   - "[[Praxis Dr. Andrea Arzt und Dr. Alexander Arzt|Praxis Dr. Andrea Arzt und Dr. Alexander Arzt]]"
 anschrift:
@@ -19,12 +21,13 @@ cssclasses:
   - full-width
 ---
 
-|           |                                                                           |
-| --------- | ------------------------------------------------------------------------- |
-| Name:     | `=this.anrede` `=this.titel` `=this.vorname` `=this.nachname`             |
-| Praxis    | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Praxen")):praxen]` | 
-| Anschrift | `=this.anschrift.straße`, `=this.anschrift.plz` `=this.anschrift.ort`     |
-| Telefon   | `=this.telefon`                                                           |
-| Fax       | `=this.fax`                                                               |
+|                |                                                                                  |
+| -------------- | -------------------------------------------------------------------------------- |
+| Name:          | `=this.anrede` `=this.titel` `=this.vorname` `=this.nachname`                    |
+| Fachrichtungen | `INPUT[inlineListSuggester(optionQuery("Daten/Fachrichtungen")):fachrichtungen]` |
+| Praxis         | `INPUT[inlineListSuggester(optionQuery("Daten/Kontakte/Praxen")):praxen]`        |
+| Anschrift      | `=this.anschrift.straße`, `=this.anschrift.plz` `=this.anschrift.ort`            |
+| Telefon        | `=this.telefon`                                                                  |
+| Fax            | `=this.fax`                                                                      |
 
 ## Notizen

@@ -20,7 +20,7 @@ TABLE without id
   file.link AS "Bezeichnung",
   erstelldatum AS "Erstelldatum",
   autoren AS "Autoren",
-  fachrichtung AS "Fachrichtung"
+  fachrichtungen AS "Fachrichtungen"
 FROM "Dokumente"
 SORT einstelldatum DESC LIMIT 5
 ```
