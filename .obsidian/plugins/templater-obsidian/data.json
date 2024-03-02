@@ -29,6 +29,10 @@
     {
       "folder": "Daten/Kontakte/Praxen",
       "template": "Vorlagen/Daten/Praxis.md"
+    },
+    {
+      "folder": "Daten/Fachrichtungen",
+      "template": "Vorlagen/Daten/Fachrichtung.md"
     }
   ],
   "syntax_highlighting": true,
