@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07c2b5bc06f9b24a",
+        "id": "4e7dbc607bdf02d8",
         "type": "tabs",
         "children": [
           {
-            "id": "416a4085b31f0270",
+            "id": "c81347d93531cb1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "00-Dashboard.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -178,14 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "416a4085b31f0270",
+  "active": "67557d6ae21a65fa",
   "lastOpenFiles": [
-    "Vorlagen/Daten/Patient.md",
     "Daten/Kontakte/Patienten/Herr Paul Patient.md",
+    "Dokumente/Kleines Blutbild (CRP).md",
     "00-Dashboard.md",
+    "Vorlagen/Daten/Patient.md",
     "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
     "Vorlagen/Termine",
-    "Dokumente/Kleines Blutbild (CRP).md",
     "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
     "Vorlagen/Daten/Fachrichtung.md",
     "Vorlagen/Daten/Arzt.md",
