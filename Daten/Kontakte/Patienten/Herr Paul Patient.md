@@ -17,6 +17,8 @@ cssclasses:
   - wide-table
 ---
 
+## `=this.anrede` `=this.titel` `=this.vorname` `=this.nachname`
+
 |              |                                                                                                      | 
 | ------------ | ---------------------------------------------------------------------------------------------------- |
 | Name:        | `=this.anrede` `=this.titel` `=this.vorname` `=this.nachname`                                        |
@@ -37,5 +39,5 @@ TABLE without id
   fachrichtungen AS "Fachrichtungen"
 FROM "Dokumente"
 WHERE contains(patient, this.file.link)
-SORT einstelldatum DESC LIMIT 5
+SORT einstelldatum DESC LIMIT 10
 ```
