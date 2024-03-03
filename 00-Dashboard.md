@@ -1,5 +1,7 @@
 ---
-cssClass: "wide-table"
+cssclasses:
+  - wide-table
+  - full-width
 ---
 ## Patient
 

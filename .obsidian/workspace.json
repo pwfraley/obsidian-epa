@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,16 +178,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c81347d93531cb1d",
+  "active": "67557d6ae21a65fa",
   "lastOpenFiles": [
+    "README.md",
+    "00-Dashboard.md",
+    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
     "Daten/Kontakte/Patienten/Herr Paul Patient.md",
     "Vorlagen/Daten/Patient.md",
-    "00-Dashboard.md",
     "Dokumente/Kleines Blutbild (CRP).md",
-    "README.md",
     "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
     "Vorlagen/Termine",
-    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
     "Vorlagen/Daten/Fachrichtung.md",
     "Vorlagen/Daten/Arzt.md",
     "Vorlagen/Daten/Praxis.md",

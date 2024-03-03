@@ -1,8 +1,8 @@
-# Obsidian ePa (Elektronische Patienten-Akte)
+# Obsidian ePa (Elektronische Patientenakte)
 
 ## Beschreibung
 
-Obsidian ePa soll dir helfen deine ePa auszuwerten und mit weiteren relevanten Informationen zu füttern.
+Obsidian ePa soll dir helfen deine elektronische Patientenakte auszuwerten und mit weiteren relevanten Informationen zu füttern.
 
 ## Benutzte Plugins
 
