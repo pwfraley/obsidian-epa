@@ -44,6 +44,5 @@
   "Daten/Kontakte/Patienten": "FasUserInjured",
   "Vorlagen/Daten": "FiDatabase",
   "Termine": "BoBxCalendar",
-  "Vorlagen/Termine": "TiCalendar",
-  "00-Dashboard.md": "IbDashboard"
+  "Vorlagen/Termine": "TiCalendar"
 }

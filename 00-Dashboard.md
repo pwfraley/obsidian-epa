@@ -8,7 +8,6 @@ TABLE without id
   file.link AS "Name",
   geburtsdatum AS "Geburtsdatum"
 FROM "Daten/Kontakte/Patienten"
-LIMIT 1
 ```
 
 ## Letzte Untersuchungen

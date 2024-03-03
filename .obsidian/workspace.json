@@ -15,7 +15,7 @@
               "state": {
                 "file": "00-Dashboard.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -178,11 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67557d6ae21a65fa",
+  "active": "c81347d93531cb1d",
   "lastOpenFiles": [
-    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
     "Dokumente/Kleines Blutbild (CRP).md",
     "00-Dashboard.md",
+    "README.md",
+    "Daten/Kontakte/Patienten/Herr Paul Patient.md",
     "Vorlagen/Daten/Patient.md",
     "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
     "Vorlagen/Termine",
@@ -203,7 +204,6 @@
     "Tagebuch/1970-01-16.md",
     "Daten/Kontakte/Patienten",
     "Vorlagen/Dokumente",
-    "README.md",
     "Vorlagen/Dokument.md",
     "Tagebuch",
     "Daten/Kontakte/Ärzte",
