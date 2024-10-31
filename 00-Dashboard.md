@@ -3,7 +3,7 @@ cssclasses:
   - wide-table
   - full-width
 ---
-## Patient
+## Patienten
 
 ```dataview
 TABLE without id
@@ -12,7 +12,21 @@ TABLE without id
 FROM "Daten/Kontakte/Patienten"
 ```
 
-## Letzte Untersuchungen
+## Termine
+
+```dataview
+TABLE without id
+  typ AS "Typ",
+  art AS "Art",
+  file.link AS "Bezeichnung",
+  erstelldatum AS "Erstelldatum",
+  autoren AS "Autoren",
+  fachrichtungen AS "Fachrichtungen"
+FROM "Termine"
+SORT einstelldatum DESC LIMIT 5
+```
+
+## Neueste Dokumente
 
 ```dataview
 TABLE without id

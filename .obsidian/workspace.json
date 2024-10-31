@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7dbc607bdf02d8",
+        "id": "f09a973db4ae21d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c81347d93531cb1d",
+            "id": "034ea8926531d77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,9 @@
                 "file": "00-Dashboard.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "00-Dashboard"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.51103591918945
+    "width": 243.5
   },
   "right": {
     "id": "6b063b19d037d21b",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00-Dashboard"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "00-Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00-Dashboard"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "00-Dashboard.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00-Dashboard"
             }
           },
           {
@@ -138,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -156,7 +176,9 @@
               "type": "file-properties",
               "state": {
                 "file": "00-Dashboard.md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 00-Dashboard"
             }
           }
         ],
@@ -164,47 +186,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c81347d93531cb1d",
+  "active": "034ea8926531d77a",
   "lastOpenFiles": [
-    "Daten/Kontakte/Ärzte/Herr Dr. Alexander Arzt.md",
+    "Dokumente/Kleines Blutbild (CRP).md",
     "00-Dashboard.md",
     "README.md",
-    "Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Dokument.md",
+    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
+    "Vorlagen/Daten/Praxis.md",
+    "Vorlagen/Daten/Patient.md",
+    "Vorlagen/Daten/Fachrichtung.md",
+    "Vorlagen/Daten/Arzt.md",
+    "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
+    "Daten/Kontakte/Praxen/Praxis Dr. Andrea Arzt und Dr. Alexander Arzt.md",
     "Daten/Kontakte/Patienten/Herr Paul Patient.md",
+    "Daten/Kontakte/Ärzte/Herr Dr. Alexander Arzt.md",
+    "Unbenannt.md",
     "Daten/Fachrichtungen/RADIOLOGIE.md",
     "Daten/Fachrichtungen/ORTHOPÄDIE.md",
     "Daten/Fachrichtungen/LABOR.md",
     "Daten/Fachrichtungen/AUGENHEILKUNDE.md",
     "Daten/Fachrichtungen/ANÄSTHESIOLOGIE.md",
     "Daten/Fachrichtungen/ALLGEMEIN.md",
-    "Vorlagen/Dokumente/Kleines Blutbild (CRP).md",
-    "Vorlagen/Daten/Patient.md",
-    "Daten/Kontakte/Ärzte/Frau Dr. Andrea Arzt.md",
     "Vorlagen/Termine",
-    "Vorlagen/Daten/Fachrichtung.md",
-    "Vorlagen/Daten/Arzt.md",
-    "Vorlagen/Daten/Praxis.md",
-    "Daten/Kontakte/Praxen/Praxis Dr. Andrea Arzt und Dr. Alexander Arzt.md",
     "Termine",
     "Vorlagen/Daten",
     "Tagebuch/1970-01-16.md",
     "Daten/Kontakte/Patienten",
     "Vorlagen/Dokumente",
-    "Vorlagen/Dokument.md",
     "Tagebuch",
     "Daten/Kontakte/Ärzte",
     "Daten/Kontakte/Praxen",

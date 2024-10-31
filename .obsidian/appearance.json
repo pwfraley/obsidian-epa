@@ -1,7 +1,7 @@
 {
-  "accentColor": "#7c55be",
-  "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "accentColor": "#4f86a4",
+  "cssTheme": "Nordic",
+  "theme": "system",
   "enabledCssSnippets": [
     "default"
   ]

@@ -14,7 +14,7 @@ fachrichtungen:
   - "[[Daten/Fachrichtungen/LABOR.md|LABOR]]"
 befund:
   werte:
-    ery: 5,2
+    ery: 5,5
     ery_unit: Mio/µl
     leu: 6
     leu_unit: µl
